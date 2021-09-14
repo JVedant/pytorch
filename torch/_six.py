@@ -20,6 +20,7 @@
 
 import math
 import sys
+import collections.abc as container_abcs
 
 inf = math.inf
 nan = math.nan
